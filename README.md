@@ -278,13 +278,5 @@ Contributions are welcome!
 
 No license is specified in this README. Add a `LICENSE` file if you intend to define the project's reuse and distribution permissions.
 
-## 👥 Contributors
-
-- [Sharvari2318](https://github.com/Sharvari2318)
-- [Manjosh-Lilhare](https://github.com/Manjosh-Lilhare)
-- [Shreniknil09](https://github.com/Shreniknil09)
-- [ShivamAdmane](https://github.com/ShivamAdmane)
-
----
 
 **Nagpur EarthWatch** — Supporting geospatial exploration and evidence-informed analysis of urban change.
